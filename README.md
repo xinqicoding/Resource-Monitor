@@ -2,6 +2,7 @@
 
 This App can monitor the overall CPU usage, memory usage and battery level of an Android system and output the list of running processes. The list comes with the process name and its corresponding processing ID. 
 
+<img src="https://github.com/xinqicoding/Resource-Monitor/blob/master/mainscreeen.pn" width="50%" height="50%"> <img src="https://github.com/xinqicoding/Resource-Monitor/blob/master/processdetail.png" width="50%" height="50%">
 ![Alt text](https://github.com/xinqicoding/Resource-Monitor/blob/master/mainscreeen.png)          ![Alt text](https://github.com/xinqicoding/Resource-Monitor/blob/master/processdetail.png)
 
 
